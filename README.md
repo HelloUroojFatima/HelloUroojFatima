@@ -8,7 +8,7 @@
 - 👨‍🏫 Web Developer
 - 🔭 MLSA from [Microsoft][msp]!
 - 👨‍🏫 Upcoming Microsoft Certified Trainer (MCT)
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with others Developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travelling ✈️
